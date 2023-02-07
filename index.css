@@ -29,6 +29,11 @@ div.desc {
   text-align: center;
 }
 
-#byu {
-  width: 15%
+#mypic {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  position: relative;
+  top: 20px;
+  right: 20px;
 }
