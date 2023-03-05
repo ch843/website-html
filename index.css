@@ -37,3 +37,7 @@ div.desc {
   top: 20px;
   right: 20px;
 }
+
+#page-title {
+  border-bottom: thin solid black;
+}
